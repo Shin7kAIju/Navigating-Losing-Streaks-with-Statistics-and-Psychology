@@ -39,7 +39,7 @@ This repository contains the full article, which you can read to deepen your und
 
 To get started, simply read the main article file in this repository: 
 1. Understanding Losing Streaks and Building Psychological Resilience.
-2. Psychology and Practical Insights
+2. Psychology and Practical Insights.
 3. Verification of Statistical Claims.
 
 ## Additional Resources
