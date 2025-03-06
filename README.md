@@ -1,3 +1,5 @@
+![kaijucapital](https://github.com/user-attachments/assets/2146ff14-216c-444b-b730-c1a0cfdd62b8)
+
 # Navigating-Losing-Streaks-with-Statistics-and-Psychology
 
 
