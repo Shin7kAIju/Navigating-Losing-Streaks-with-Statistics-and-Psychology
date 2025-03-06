@@ -37,7 +37,7 @@ This repository contains the full article, which you can read to deepen your und
 - **Build an Emotional Plan**: Develop a personalized strategy to manage your emotions during losing periods, inspired by the psychological techniques outlined.
 - **Shift Your Mindset**: Reframe your approach to focus on the process rather than short-term results, aligning with the article’s long-term perspective.
 
-To get started, simply read the main article file in this repository (e.g., `article.md` or similar, depending on your naming convention).
+To get started, simply read the main article file in this repository ([e.g., `article.md` or similar, depending on your naming convention](https://github.com/Shin7kAIju/Navigating-Losing-Streaks-with-Statistics-and-Psychology/blob/main/Understanding%20Losing%20Streaks%20and%20Building%20Psychological%20Resilience.md)).
 
 ## Additional Resources
 
